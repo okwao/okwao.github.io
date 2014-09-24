@@ -1,0 +1,70 @@
+body
+{
+	background-color: #000000;
+}
+img 
+{
+	width: 60%;
+	height: 90%;
+}
+.container-fluid /*this is a class declaration*/
+{
+	background-color: #191919;
+}
+
+#text /* this is an id declaration*/
+{ 
+	font-size: 55px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+}
+p#tit 
+{
+	font-size: 26px;
+	color:white; 
+	text-align:center; 
+	font-family: serif;
+}
+p#text1
+{
+	font-size: 25px;
+	color:white; 
+	text-align:center; 
+	font-family: serif;
+}
+#bs-example-navbar-collapse-1
+{
+	background-color: #000000;
+	padding-top: 10px;
+	padding-left: 50px;
+}
+#rowbg
+{
+	background-color: #000000;
+	color: #CCCCCC;
+}
+#rowbg1
+{
+	background-color: #000000;
+	padding-left: 5px;
+	color:#CCCCCC;
+}
+#twit 
+{
+	width:40px;
+	height:27px;
+	padding-left: 10px;
+}
+#insta
+{
+	width:40px;
+	height:27px;
+	padding-left: 10px;
+}
+#link
+{
+	width:40px;
+	height:27px;
+	padding-left: 10px;
+}
