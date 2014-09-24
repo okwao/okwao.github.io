@@ -56,15 +56,15 @@ p#text1
 	height:27px;
 	padding-left: 10px;
 }
-#insta
-{
-	width:40px;
-	height:27px;
-	padding-left: 10px;
-}
 #link
 {
 	width:40px;
 	height:27px;
 	padding-left: 10px;
+}
+#abtex
+{
+	color: white;
+	text-align: center;
+	font-size: 50px;
 }
