@@ -70,9 +70,17 @@ a.socialIcons:hover
 {
 	color: white;
 }
-#conte p
+#conte
 {
 	color: white;
+	text-align: center;
+	font-size: 18px;
+}
+#contc
+{
+	color: white;
+	text-align: center;
+	font-size: 26px;
 }
  /* O - Original
  	A - Avid
