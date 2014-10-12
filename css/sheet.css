@@ -1,17 +1,18 @@
-body
-{
-	background-color: #000000;
-}
-img 
-{
-	width: 60%;
-	height: 90%;
-}
-.container-fluid /*this is a class declaration*/
+#container
 {
 	background-color: #191919;
 }
-
+.container-fluid
+{
+	background-color: #000000;
+	border-color: #000000;
+}
+#radius 
+{
+	width: 60%;
+	height: 80%;
+	border-radius: 49%;
+}
 #text /* this is an id declaration*/
 { 
 	font-size: 55px;
@@ -22,39 +23,16 @@ img
 p#tit 
 {
 	font-size: 26px;
-	color:white; 
 	text-align:center; 
 	font-family: serif;
+	color: white;
 }
 p#text1
 {
-	font-size: 25px;
-	color:white; 
+	font-size: 25px; 
 	text-align:center; 
 	font-family: serif;
-}
-#bs-example-navbar-collapse-1
-{
-	background-color: #000000;
-	padding-top: 10px;
-	padding-left: 50px;
-}
-#rowbg
-{
-	background-color: #000000;
-	color: #CCCCCC;
-}
-#rowbg1
-{
-	background-color: #000000;
-	padding-left: 5px;
-	color:#8F0047;
-}
-#twit 
-{
-	width:40px;
-	height:27px;
-	padding-left: 10px;
+	color: white;
 }
 #link
 {
@@ -64,7 +42,6 @@ p#text1
 }
 #abtex
 {
-	color: white;
 	text-align: center;
 	font-size: 50px;
 }
@@ -75,8 +52,21 @@ p#text1
 p#she
 {
 	font-size: 12px;
+}
+#footerco
+{
+	background-color: #000000;
+}
+a.socialIcons:hover 
+{
+	opacity: .8;
+	filter:alpha(opacity=80);
+}
+#footerco p
+{
 	color: white;
 }
+
  /* O - Original
  	A - Avid
  	K - Kind
